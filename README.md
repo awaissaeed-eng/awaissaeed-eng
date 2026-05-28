@@ -128,8 +128,8 @@ An interactive, humanized coding education tool designed to make learning to cod
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=awaissaeed054&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awaissaeed054&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=awaissaeed-eng&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awaissaeed-eng&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -137,11 +137,11 @@ An interactive, humanized coding education tool designed to make learning to cod
 ## 🔥 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=awaissaeed054&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=awaissaeed-eng&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=awaissaeed054&theme=tokyo-night" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=awaissaeed-eng&theme=tokyo-night" alt="Activity Graph" />
 </p>
 
 ---
